@@ -1,0 +1,12 @@
+Account #
+0276 2861 1643 7840
+
+Wireguard key
+wm3e8dEVFijDQ7bNy44kHFnZzhmpYc/HFeH3g4XwMjI=
+
+Run 
+./mullvad-wg.sh
+
+Turn on Wireguard
+wg-quick up mullvad-se4     ## -se4 can be changed to any other region found on server page
+		            ## server page: https://mullvad.net/en/servers/
